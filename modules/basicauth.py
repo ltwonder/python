@@ -1,5 +1,6 @@
 '''
 This code based on 'Basic Auth Middleware'(https://djangosnippets.org/snippets/2468/), author is joshsharp.
+Modified for Python 3.4
 '''
 
 from django.http import HttpResponse
